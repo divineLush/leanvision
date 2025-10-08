@@ -1,0 +1,13 @@
+ultralytics
+opencv-python-headless
+numpy
+pandas
+tqdm
+requests
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+pydantic
+sqlalchemy        # если sqlite persistence
+databases         # удобная async обёртка (опционально)

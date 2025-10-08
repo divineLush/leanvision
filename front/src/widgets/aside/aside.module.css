@@ -1,0 +1,47 @@
+.aside {
+  padding: 40px 0;
+  max-width: 266px;
+  background: #ffffff;
+}
+
+.top {
+  padding: 0 40px 50px;
+  border-bottom: #D9D9D9 solid 1px;
+}
+
+.avatar {
+  width: 80px;
+  height: 80px;
+  display: block;
+  margin: 0 auto 12px;
+}
+
+.name {
+  font-size: 20px;
+  margin-bottom: 4px;
+  text-align: center;
+}
+
+.org {
+  font-size: 15px;
+  margin-bottom: 4px;
+  text-align: center;
+  color: #595959;
+}
+
+.bottom {
+  padding: 35px 40px 0;
+}
+
+.heading {
+  color: #004524;
+  font-size: 24px;
+  margin-bottom: 13px;
+}
+
+.link {
+  display: block;
+  margin-bottom: 9px;
+  color: #595959;
+  font-size: 15px;
+}
