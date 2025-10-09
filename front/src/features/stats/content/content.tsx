@@ -58,53 +58,91 @@ export default function Content() {
 
       <div className={styles['bottom-block']}>
         <div className={styles.item}>
-          <p className={styles.metric}>Нет головного убора</p>
+          <h2 className={styles.heading}>Внешний вид</h2>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
-          <p className={styles.metric}>Нет головного убора</p>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
-          <p className={styles.metric}>Нет головного убора</p>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
-          <p className={styles.metric}>Нет головного убора</p>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
-          <p className={styles.metric}>Нет головного убора</p>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
-          <p className={styles.metric}>Нет головного убора</p>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
         </div>
         <div className={styles.item}>
-          <p className={styles.metric}>Нет головного убора</p>
+          <h2 className={styles.heading}>Санитария</h2>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
-          <p className={styles.metric}>Нет головного убора</p>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
-          <p className={styles.metric}>Нет головного убора</p>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
-          <p className={styles.metric}>Нет головного убора</p>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
-          <p className={styles.metric}>Нет головного убора</p>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
-          <p className={styles.metric}>Нет головного убора</p>
+          <div className={styles['metric-wrapper']}>
+            <p className={styles.metric}>Нет головного убора</p>
+            <p className={styles['metric-value']}>30</p>
+          </div>
           <div className={styles.bar}>
             <div className={styles['bar-inner']} style={{ width: '93%' }}></div>
           </div>
