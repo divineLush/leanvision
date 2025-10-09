@@ -1,7 +1,10 @@
 .content {
   width: 100%;
-  background: #bbbbbb;
   padding: 35px 64px;
+  background-image: url('/img/background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .top-block {
@@ -73,4 +76,15 @@
 .heading {
   font-size: 20px;
   color: #FFFFFF;
+}
+
+.bottom-block {
+  margin-top: 32px;
+  display: flex;
+  justify-content: space-between;
+  gap: 32px;
+}
+
+.bottom-block div {
+  flex: 1;
 }
